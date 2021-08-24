@@ -1,0 +1,16 @@
+------------- user information -------------
+identity: 
+username: ghazall
+full name: ghazall
+email address: ghazal.moharari@gmail.com
+------------- result -------------
+problem name: سوال ۲
+state: آپلود شد
+short judge result: داوری نشده
+penalty: 100%
+judge score: 0
+judge score with delay: 0
+instructor score: 10
+instructor score with delay: 10
+------------- judge log -------------
+

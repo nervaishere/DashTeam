@@ -1,0 +1,24 @@
+------------- user information -------------
+identity: 
+username: Maryam_57
+full name: Maryam_57
+email address: mmjafarim@gmail.com
+------------- result -------------
+problem name: سوال ۴
+state: داوری شد
+short judge result: کامپایل شد
+penalty: 100%
+judge score: 0
+judge score with delay: 0
+instructor score: not set yet.
+------------- judge log -------------
+
+Starting tester...
+type = compile-only
+Checking Python Syntax
+Syntax checked. Exit Code=0  Execution Time: 282 ms
+Enabling Shield For Python 2
+Compiled Successfully
+
+Total Execution Time: 618 ms
+
