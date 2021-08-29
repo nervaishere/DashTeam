@@ -1,0 +1,6 @@
+a=int(input('enter a number:'))
+b=int(input('enter a number:'))
+c=int(input('enter a number:'))
+print(max(a,b,c))
+print(min(b,c))
+print(max(a,b))
