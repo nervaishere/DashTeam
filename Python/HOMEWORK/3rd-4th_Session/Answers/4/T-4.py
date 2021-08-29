@@ -1,0 +1,5 @@
+x=input("Enter first Number:")
+y=input("Enter Second Number:")
+sum=float(x)+float(y)
+multi=float(x)*float(y)
+print("sum:",sum," ","multi:",multi)

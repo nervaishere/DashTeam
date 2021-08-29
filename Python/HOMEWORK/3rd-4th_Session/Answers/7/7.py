@@ -1,0 +1,5 @@
+text1=input("")
+text2=input("")
+text3=input("")
+text4=input("")
+print(text1 + "\t" + text2 + "\b" + text3 + "\n" + text4 + "\"" )

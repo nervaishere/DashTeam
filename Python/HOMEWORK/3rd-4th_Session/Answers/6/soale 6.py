@@ -1,0 +1,6 @@
+x = input()
+print("1".join(x))
+y = input()
+print(y.replace('e','!').replace('a','6'))
+z = input()
+print(z.split())

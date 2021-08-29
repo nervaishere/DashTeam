@@ -1,0 +1,6 @@
+a=input("")
+b=input("")
+print(a + " " + b)
+list_a=list(a)
+list_b=list(b)
+print(str(list_a) + "\n" + str(list_b))
