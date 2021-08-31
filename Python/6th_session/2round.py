@@ -13,7 +13,3 @@ print(round(y)) #default is zero
 print(round(y,-1))
 print(round(y,-2))
 print(round(y,3))
-
-
-
-
