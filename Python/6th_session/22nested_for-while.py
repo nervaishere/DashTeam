@@ -1,4 +1,4 @@
-names = ['Ali', 'Emad', 'Shima']
+"""names = ['Ali', 'Emad', 'Shima']
 # outer loop
 for name in names:
     # inner while loop
@@ -9,3 +9,7 @@ for name in names:
         count = count + 1
     print()
 
+count +=1
+"""
+x = 3
+print('*'*x)
