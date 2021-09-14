@@ -1,0 +1,6 @@
+x_tuple= tuple(range(1,5))
+x_list= list((1,2,3))
+list_X = (x_list + list(x_tuple))
+x= tuple((x_list , list(x_tuple)))
+print(x)
+print(list_X)
