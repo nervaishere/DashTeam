@@ -1,5 +1,0 @@
-x = input()
-y = input()
-print(x,y)
-print(list(x))
-print(list(y))

@@ -1,7 +1,0 @@
-a = input()
-b = a.upper()
-print(len(a))
-x = int(input())
-y = int(input())
-z = int(input())
-print(b[x:y:z])

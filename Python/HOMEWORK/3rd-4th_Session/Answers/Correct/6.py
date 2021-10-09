@@ -1,8 +1,0 @@
-text1 = input("Enter a text: ")
-text2 = input("Enter a text: ")
-text3 = input("Enter a text: ")
-text2 = text2.replace("e","!")
-text2 = text2.replace("a","6")
-print("1".join(text1))
-print(text2)
-print(text3.split())

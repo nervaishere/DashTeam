@@ -1,5 +1,0 @@
-x=input("Enter first Text:")
-y=input("Enter Second Text:")
-print(x+y)
-print(list(x))
-print(list(y))
